@@ -8,5 +8,5 @@
 
 **下载链接**：
 
-[https://github.com/LaplaceDemon/calc24/releases/download/v1.0.0/app-release.apk]()
+[https://github.com/LaplaceDemon/calc24/releases/download/v1.0.0/app-release.apk](https://github.com/LaplaceDemon/calc24/releases/download/v1.0.0/app-release.apk)
 
