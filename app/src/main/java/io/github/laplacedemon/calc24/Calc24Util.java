@@ -65,7 +65,7 @@ public class Calc24Util {
                             String expressionString = expressionStringBuilder.toString();
                             double v = opCalc(expressionString);
                             if (check24(v)) {
-                                textView.append(expressionString.replaceAll(".0", "") + "\n");
+                                textView.append(expressionString.replaceAll("(\\.0)", "") + "\n");
                             }
                         }
                     }
@@ -88,7 +88,7 @@ public class Calc24Util {
                             String expressionString = expressionStringBuilder.toString();
                             double v = opCalc(expressionString);
                             if (check24(v)) {
-                                textView.append(expressionString.replaceAll(".0", "") + "\n");
+                                textView.append(expressionString.replaceAll("(\\.0)", "") + "\n");
                             }
                         }
                     }
@@ -111,7 +111,7 @@ public class Calc24Util {
                             String expressionString = expressionStringBuilder.toString();
                             double v = opCalc(expressionString);
                             if (check24(v)) {
-                                textView.append(expressionString.replaceAll(".0", "") + "\n");
+                                textView.append(expressionString.replaceAll("(\\.0)", "") + "\n");
                             }
                         }
                     }
@@ -134,7 +134,7 @@ public class Calc24Util {
                             String expressionString = expressionStringBuilder.toString();
                             double v = opCalc(expressionString);
                             if (check24(v)) {
-                                textView.append(expressionString.replaceAll(".0", "") + "\n");
+                                textView.append(expressionString.replaceAll("(\\.0)", "") + "\n");
                             }
                         }
                     }
@@ -158,7 +158,7 @@ public class Calc24Util {
                             double v = opCalc(expressionString);
 
                             if (check24(v)) {
-                                textView.append(expressionString.replaceAll(".0", "") + "\n");
+                                textView.append(expressionString.replaceAll("(\\.0)", "") + "\n");
                             }
                         }
                     }
@@ -181,7 +181,7 @@ public class Calc24Util {
                             String expressionString = expressionStringBuilder.toString();
                             double v = opCalc(expressionString);
                             if (check24(v)) {
-                                textView.append(expressionString.replaceAll(".0", "") + "\n");
+                                textView.append(expressionString.replaceAll("(\\.0)", "") + "\n");
                             }
                         }
                     }
@@ -206,7 +206,7 @@ public class Calc24Util {
                             String expressionString = expressionStringBuilder.toString();
                             double v = opCalc(expressionString);
                             if (check24(v)) {
-                                textView.append(expressionString.replaceAll(".0", "") + "\n");
+                                textView.append(expressionString.replaceAll("(\\.0)", "") + "\n");
                             }
                         }
                     }
@@ -231,7 +231,7 @@ public class Calc24Util {
                             String expressionString = expressionStringBuilder.toString();
                             double v = opCalc(expressionString);
                             if (check24(v)) {
-                                textView.append(expressionString.replaceAll(".0", "") + "\n");
+                                textView.append(expressionString.replaceAll("(\\.0)", "") + "\n");
                             }
                         }
                     }
@@ -256,7 +256,7 @@ public class Calc24Util {
                             String expressionString = expressionStringBuilder.toString();
                             double v = opCalc(expressionString);
                             if (check24(v)) {
-                                textView.append(expressionString.replaceAll(".0", "") + "\n");
+                                textView.append(expressionString.replaceAll("(\\.0)", "") + "\n");
                             }
                         }
                     }

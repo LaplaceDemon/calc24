@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='24点计算器'

@@ -15,7 +15,7 @@ public class RegTest {
 
     @Test
     public void testReplace() {
-        String s = "1.0+2.0+3.0".replaceAll(".0", "");
+        String s = "10.0+100.0+1.0+2.0+3.0".replaceAll("(\\.0)", "");
         System.out.println(s);
     }
 }
